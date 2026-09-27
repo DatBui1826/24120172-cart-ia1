@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "lint": "eslint ."
   }
-}
-"scripts": {
-  "test": "node --test",
-  "lint": "eslint ."
 }
